@@ -1,0 +1,3 @@
+TIENDA DEMO
+Comprobante ficticio — no válido para transacciones
+Total: ₡250,000.00
